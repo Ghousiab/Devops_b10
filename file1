@@ -1,6 +1,18 @@
-
-this is firts file in branch1 to check the conflict
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d1ff6a5... commited
 
 first file is editing in branch 2 to check the conflict
 
 this is the first file created
+conflicts is cleard
+
+<<<<<<< HEAD
+=======
+>>>>>>> parent of ba96a6f... file1 commited in branch2
+=======
+>>>>>>> parent of ba96a6f... file1 commited in branch2
+=======
+>>>>>>> parent of d1ff6a5... commited
